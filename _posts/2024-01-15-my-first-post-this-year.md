@@ -5,7 +5,6 @@ subtitle: quick summary
 categories: website
 tags: [Github, website]
 ---
-
 1. I created a Github account
 2. I cloned a repository from https://github.com/datamaunz
 3. I renamed the cloned repository Nwosu-Josiah.github.io
